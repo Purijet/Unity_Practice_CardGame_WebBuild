@@ -534,6 +534,9 @@ MonoBehaviour:
   soundWin: {fileID: 8300000, guid: c56457de3a8bf4d4d8191bddca0a4d82, type: 3}
   soundLose: {fileID: 8300000, guid: e954741e0310d6e439a4e614f15ee793, type: 3}
   soundTie: {fileID: 8300000, guid: e1ed5e7bdcf877343b7a96f92fa6a7e0, type: 3}
+  EndScene: {fileID: 1575089947}
+  textFinalTitle: {fileID: 2121032004}
+  btnReplay: {fileID: 1511313311}
 --- !u!82 &975463749
 AudioSource:
   m_ObjectHideFlags: 0
